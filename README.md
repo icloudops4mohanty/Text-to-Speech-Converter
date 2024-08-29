@@ -43,5 +43,4 @@ REACT_APP_REGION=<your_aws_region>
 - Run the application using `npm start`
 - Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-## Connect with me
-- [LinkedIn](https://www.linkedin.com/in/mohitur02/)
+
